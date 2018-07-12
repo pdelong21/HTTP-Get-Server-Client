@@ -13,9 +13,11 @@ Compilation:
     OS: Fedora 27
     Python Version: 3.6
 
-Used the following command lines in 2 Terminals
+Used the following commands in 2 terminals
 
-1) python3 server.py
+1) python3 server.py # first terminal
+
+# next two commands should be done in a second terminal
 
 2) python3 client.py localhost:12000/filename.html # this shows it works for the Get case and Conditional Get case
 
